@@ -1,0 +1,14 @@
+.invisivel {
+	position: absolute;
+	left: -999em;
+}
+
+.blur {
+	opacity: 0;
+	transition: 1s;
+}
+
+.no-blur {
+	opacity: 1;
+	transition: 5s;
+}
